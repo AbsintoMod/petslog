@@ -1,0 +1,150 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#img_title {
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+
+#img_logo{	
+	margin-top: -80px;
+	margin-left: 10px;
+}
+
+body{
+	width:100%;
+	height:100%;
+}
+
+body #tabela_menu{
+	margin-top: -130px;
+	margin-left: 260px;
+	font-size: 12px;
+}
+
+body #logingeral {
+	margin-top: -85px;
+	margin-left: 620px;
+}
+
+body #logingeral .botao{
+background: url('img/botao_entrar.png') no-repeat;
+width: 20px;
+height: 100px;
+border: none;
+margin-top: -60px;
+margin-left: 150px;
+}
+
+body h1{
+	font-family: Times New Roman;
+	font-style: italic;
+	font-size: 50px;
+}
+
+.produto1{
+	margin-top: 200px;
+	margin-left: 960px;
+	margin-right: 10px;
+}
+
+.produto1_1{
+font-size: 12px;
+margin-top: -490px;
+margin-left: 100px;
+margin-right:320px;
+}
+
+#compra .produto1{
+	margin-top: 10px;
+	margin-left: 30%;
+	margin-right: 100px;	
+}
+
+#compra .produto1_1{
+font-size: 15px;
+margin-top: 30px;
+margin-left: 100px;
+margin-right:320px;
+}
+
+.produto2{
+	margin-top: 0px;
+	margin-left: 30px;
+	margin-right: 760px;
+}
+
+.produto2_2{
+font-size: 12px;
+margin-top: -330px;
+margin-left: 450px;
+margin-right:250px;
+}
+
+#compra .produto2{
+	margin-top: 10px;
+	margin-left: 30%;
+	margin-right: 100px;	
+}
+
+#compra .produto2_2{
+font-size: 15px;
+margin-top: 30px;
+margin-left: 100px;
+margin-right:320px;
+}
+
+.produto3{
+	margin-top: 0px;
+	margin-left: 30px;
+	margin-right: 750px;
+}
+
+.produto3_3{
+font-size: 13px;
+margin-top: -200px;
+margin-left: 520px;
+margin-right:20px;
+}
+
+#compra .produto3{
+	margin-top: 10px;
+	margin-left: 30%;
+	margin-right: 100px;	
+}
+
+#compra .produto3_3{
+font-size: 15px;
+margin-top: 30px;
+margin-left: 100px;
+margin-right:320px;
+}
+
+.botao_comprar{
+margin-left: 40%;
+margin-right:40%x;	
+}
+.forma_compra{
+margin-left: 40%;
+margin-right:40%x;	
+}
+
+body #rodape{
+	margin-top: 100px;
+	margin-left: 0px;
+	margin-right: 0px;	
+}
+
+body #rodape1{
+	margin-top: -80px;
+	margin-left: 20px;	
+}
+
+body #vet{
+	margin-top: -60px;
+	margin-left: 80%;	
+}
