@@ -1,6 +1,6 @@
 Sistema para PetShop
 
-…or create a new repository on the command line
+or create a new repository on the command line
 
 echo "# petslog" >> README.md
 git init
